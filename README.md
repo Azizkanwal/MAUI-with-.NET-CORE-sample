@@ -44,20 +44,17 @@ Backend: ASP.NET Core Web API (optional backend for data storage and APIs)
 Database: SQLite / SQL Server
 
 Authentication: Role-based access handling in-app (JWT/Identity can be added)
-
-<img width="247" alt="image" src="https://github.com/user-attachments/assets/7a8853d7-bdc0-4471-b9d2-3af4935fa5dc" />
-<img width="260" alt="image" src="https://github.com/user-attachments/assets/b454648d-ea3b-42c2-b3f7-d96b7240a70a" />
-<img width="244" alt="image" src="https://github.com/user-attachments/assets/5064d426-f00b-41d9-aacd-8c1ba955b779" />
-<img width="259" alt="image" src="https://github.com/user-attachments/assets/b6132bd9-34e7-4c29-a830-d968287fea3d" />
-<img width="259" alt="image" src="https://github.com/user-attachments/assets/e1a04dfb-bcf2-4c64-9d14-750341e0defe" />
-<img width="259" alt="image" src="https://github.com/user-attachments/assets/d8e38f36-b4d9-4a53-8a42-5b03214c1f89" />
-<img width="257" alt="image" src="https://github.com/user-attachments/assets/78414abc-0568-44ce-a34e-bb051af33e43" />
-
-
-
-
-
-
-
-
  
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/1025e39e-d28b-49b3-8dd2-ee86de884b55" />
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/6778879a-9753-4b8b-b22e-98adbd00e01a" />
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/0d51e14e-5455-4f31-bb3d-b12e5b43c1bb" />
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/20d15d96-59d9-4dcc-a6dc-320872309ad8" />
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/0a9c6e92-61df-4015-bb74-e3ba2bcec22f" />
+<img width="257" alt="image" src="https://github.com/user-attachments/assets/3b357536-0e38-48cd-9c99-abd2307c7b58" />
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/d64f5f62-c463-432b-9273-6dcd50f3f779" />
+
+
+
+
+
+
